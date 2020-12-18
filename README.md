@@ -1,2 +1,6 @@
 # my-implementation-learning-reference-sandbox
-My playground and sandbox. Place to keep my implementations to refer to or modify for future projects, things to tinker with, or other people's resources that I think might be super useful?
+My playground and sandbox. 
+
+>>Place to keep my personal implementations to refer to or modify for future projects
+>>Things to tinker with and maybe accidentally break
+>>Or other people's resources that might be amazingly useful!
